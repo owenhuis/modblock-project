@@ -1,6 +1,9 @@
 // Made with Blockbench 4.12.6
 // Exported for Minecraft version 1.17+ for Yarn
 // Paste this class into your mod and generate all required imports
+
+package com.example.mod;
+   
 public class me:mreggen extends EntityModel<Entity> {
 	private final ModelPart torso;
 	private final ModelPart belly;
